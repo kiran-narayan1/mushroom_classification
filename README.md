@@ -8,11 +8,13 @@ Update requirements.txt
 conda create -p environment python==3.8 -y
 conda activate environment 
 
-### Step 3: Installing Requirements.txt
-python -r requirements.txt
+### Step 3: Update setup.py
+
+### Step 4: Installing Requirements.txt
+pip install -r requirements.txt
 
 or 
 
-python setup.py --install
+python setup.py install
 
-### Step 4:
+### Step 5:

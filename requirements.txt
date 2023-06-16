@@ -8,13 +8,9 @@ PyYAML
 notebook
 ensure
 python-box
-tensorflow
 dvc
 tqdm
 joblib
-json
 types-PyYAML
-Flask
-Flask-Cors
-- e.
+-e .
 
